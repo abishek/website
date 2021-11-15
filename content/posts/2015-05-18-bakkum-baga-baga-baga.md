@@ -1,0 +1,39 @@
+---
+title: bakkum baga baga baga
+author: abishek
+type: post
+date: 2015-05-18T04:02:03+00:00
+url: /bakkum-baga-baga-baga/
+categories:
+  - Movies
+tags:
+  - chennai
+  - kamal hassan
+  - life
+  - movie
+  - review
+  - thoughts
+  - uttama villain
+
+---
+I never thought I&#8217;d ever say this of a Kamal Hassan movie: Uttama villain is a brave story. And I loved it. I think the last such movie was &#8220;Anbe Sivam&#8221;. That was a classic and I truly appreciated Kamal Hassan in that role: It was a brave story in multiple ways and had a truly appreciable philosophy backing it.
+
+TL;DR &#8211; Go watch Uttama Villain without expectations. You&#8217;ll love it.
+
+I don&#8217;t know if Uttama Villain has a philosophical backing to it. The graphics are outright 3rd grade and shady. I don&#8217;t know why Kollywood movie makers have that blatant dis-regard for graphics (and perfectionism, if I can call it that). The camera work and editing is definitely less than perfect. I am a critic and not a very good one either, but I usually see what irritates me on big screen immediately. And more so for KH movies because he claims perfection. He is widely read and undeniably knowledgeable. Just watch him discuss history on any talk show and you&#8217;ll agree with me. I love his ideas and inspirations. But I usually find his execution lacking which is the reason I am not his best fan.
+
+The strength of the movie is its emotions. Just about everyone is at their best. Of course, there is nothing less to expect from the usual suspects &#8211; Urvashi, MS Bhaskar, Jayaram, Nassar,  K Vishwanath or KH. Maybe I felt KH went overboard in a few places, but in most parts of the movie it was just about correct. Thank you for keeping it right. KB was the highlight of the movie. Until that scene where Margadarisi first appears, I found the movie to be a major drag. I just wanted to quit and sleep. But KB brought me back. Of course, I cannot comment on his skillset. I easily welled up with him on the screen. Interestingly, I never liked KB&#8217;s movies &#8211; especially their camera work and dialogues (or screen play, I can&#8217;t be sure). I love the maturity in his themes and characters, especially the women. But I usually felt that he too gave in to commercial aspects for a few minutes in each of his movies. That doesn&#8217;t make him a bad movie maker, just makes him less than ideal in my mind (same reason why KH is less than perfect in my mind). These are people with the gift. They can be bolder than that.
+
+Uttaman was nice. He is supposed to be funny. I probably laughed for about 10% of his jokes. I laughed out of pity for some others.  The princess over did it. She was painful to see on screen, although she looked good and carried a good stature. She seemed to scream more than act and it was outright annoying in many places. Graphic tiger is not bad, but it needs to be done well. Especially after what I saw in &#8220;Life of Pie&#8221;, I&#8217;ll never be able to accept Uttama Villain&#8217;s tiger. If they can do it, we could. Many of our folks are writing the software that do this stuff. Unfortunately some camera angles are bad and it sort of shows him too short/stout. I don&#8217;t have a problem with old men romancing young women on screen. It happens everywhere on this earth and there is no reason why KH should look younger for us accept it. The Andreah angle was unnecessary (or so I felt, or perhaps not well explored) and the neuro-specialist friend was unconvincing or rather absent. Andreah could have pulled off as the specialist &#8211; she has the presence for that. But maybe they wanted an elderly character to prove the point. Of course, in India it is still experience. I liked the dialogues in general. You can see Crazy Mohan influence on and off &#8211; I don&#8217;t know who is the influencer here but I know the style from Crazy Mohan! The free flow of telugu really signifies how deep the telugu connections go in tamil movie industry. Their telugu was so nice to hear. I loved how simple the mother-in-law was inspite of how big they are. That&#8217;s something I have wondered about some other reasonably affluent telugu families that I have come across. Their affluence is usually not in their attire, but in their manner.
+
+There were some thing I truly loved about the movie. The make-up for &#8220;thayyam&#8221; was interesting and I really want to appreciate the movie for bringing it to light. I loved the use of Villu paatu. It&#8217;s been so long since I last heard one. Even though it is only one fully obvious snippet, it feels very good. The were multiple levels of theatre which is easily lost. It doesn&#8217;t look very meta after a point. Maybe they could have really explored it a bit. Signing off saying Uttaman was indeed the neighbouring King was a tad pathetic. At least, they should have revealed it somewhere in the middle, as a subplot. To create a sloppy and lucky comic and to reveal him as a king at the very last moment seemed desperate. But they quickly establish Manoranjan(KH) as a perfectionist; while the rest of the team are rather comfortable with good, he suggests retakes for minor corrections until his very last act. That was a good touch especially because it contrasts so well with the cliche&#8217;d superstar he arrives on screen as.
+
+The other thing I loved is the splurge and the class in the actor&#8217;s life and family. It is one thing to be rich and it is another thing to be classy. I still think they should have gone beyond Audis &#8211; not that they are not classy, but there are more vehicles that make the point better. For instance, if you hired a RR-Phantom for just the red-carpet shots, it would have gone a very long way. There was a mention of a Bentley in the passing but that probably doesn&#8217;t register at all. The kid was a little annoying. I loved the father-son talk. It is really a lec-dem session on how to talk to your adolescent son. I was really wishing Jayaram was not leeching for some money, because his initial introduction looked like it. Maybe they wanted that element. But the depth of his character was brilliant. And of course, he carried an amazing style that went very well with the story. At some point, you understand that you cannot judge anyone in the movie. They are all mature beyond our common middle-class life. They have moved on to living a life that revolves around love rather than a life that revolves around relationships and societal norms. Its about time some of us wake up to this reality.
+
+Sometimes I wonder at the &#8220;larger than life&#8221; lifestyles of Kamal Hassan or Rajini Kanth. Success, fame and the pressure that follows it. I always wondered how difficult their lives could be. This movie gives you a glimpse. You can call it dirty, but I think it is difficult. And you can&#8217;t comment unless you are there &#8211; one among them. The only other movie which was posh and classy was the telugu movie &#8211; Manam from the Akkineni stable. This one is a close second. I don&#8217;t watch Bollywood a lot but am sure there are some very good examples there &#8211; DCH is one.
+
+Overall, the movie is a nice watch. It has a noble story and it has excellent character strength and can make you emote with it. It has very bad graphics and not so memorable music. But I still have &#8220;bakkum baga baga baga&#8221; running in my head.
+
+Go ahead and watch it in theatres. Sometimes your TV or 17&#8243; laptop cannot do justice to the class. Oh, I watched it in Singapore where the two tickets (the wife included, duh!) are probably more expensive than movie tickets + cab pickup and drop from chromepet.
+
+&nbsp;

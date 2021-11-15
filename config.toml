@@ -1,0 +1,97 @@
+baseURL = 'https://www.abishekgoda.com/'
+languageCode = 'en-us'
+theme = 'anatole'
+
+enableGitInfo = false
+enableEmoji = true
+disableRSS = true
+disableSitemap = true
+enableRobotsTXT = false
+
+[params]
+show_reading_time = true
+title = '~abishek'
+author = 'Abishek Goda'
+description = 'tech geek, guitar learner, arduino, python, common lisp, NLP.'
+profilePicture = 'images/profile.png'
+readMore = true
+mainSections = ["post"]
+postSectionName = "blog"
+displayMode = "dark"
+disableThemeSwitcher = true
+googleFonts = [
+    "Inter:wght@100;200;300;400;500;600;700;800;900"
+]
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/index.html"
+
+[[menu.main]]
+name = "About"
+identifer = "about"
+weight = 200
+url = "/about/index.html"
+
+[[menu.main]]
+name = "Common Lisp"
+identifier = "cl"
+weight = 300
+url = "https://cl.abishekgoda.com"
+
+[[menu.main]]
+name = "Ideas"
+identifier = "ideas"
+weight = 400
+url = "/categories/idea"
+
+[params.math]
+enable = true
+use = "katex"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/abishek/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/abishekgoda"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://www.github.com/abishek"
+
+[deployment]
+
+[[deployment.targets]]
+name = "deploy-to-s3"
+URL = "s3://www.abishekgoda.com?region=ap-south-1"
+cloudFrontDistributionID = "E3L3XDB3SS8K0H"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true

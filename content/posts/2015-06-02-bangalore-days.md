@@ -1,0 +1,34 @@
+---
+title: Bangalore Days
+author: abishek
+type: post
+date: 2015-06-02T05:00:00+00:00
+url: /bangalore-days/
+categories:
+  - Movies
+tags:
+  - bangalore days
+  - comedy
+  - malayalam
+  - movie
+  - Nazriya
+  - Nivin
+  - review
+  - thoughts
+
+---
+A lot of people have been recommending Malayalam movies to me. I used to catch a few Malalayalam movies on DD long time back. They usually had good stories but were a drag. You know, at that teens you really want action (both kinds, yes). And then there is the stigma of watching a Malayalam movie as a teen. It can&#8217;t do you much good. I still managed to catch a few very good ones and mostly from the Mammotty stable &#8211; Iyer the great, New Delhi, Oru CBI Diary Kurippu etc. Of course, if I think a bit more I can locate from other major heroes as well. What always attracted me to their movies is their no nonsense movie making, again the stigma is what kept me away 🙂
+
+Off late, again, I hear a lot about renewed Malayalam cinema. A fresh batch of movie makers are stirring up a storm there. Or so I hear. Interestingly, they have taken more slick city subjects into their movies giving it a fine polish that usually didn&#8217;t exist in their predecessor movies. Stories may not be as fabulous, but they don&#8217;t quite compromise like the tamil or telugu industries where there are few good stories and a whole lot of teenage stuff.
+
+The first movie in this genre that I watched (and watched again multiple times, and a few more times in tamil) is the one called Neram. I&#8217;ll need to review what I loved about that movie that I watched it so many times. In tamil, its just the comedy &#8211; my kind of absurd comedy; the kind that slaps in your face every day that you want to cry about but instead just laugh off at how bad you luck must be. Neram is a master piece and there can be no disputes about it. Its like the perfect movie for me. So much so that I will try to catch some movies simply for Nivin Pauly and/or Nazriya!
+
+Last weekend I got to catch &#8220;Bangalore Days&#8221; on Vasantham. Its a nice movie about three cousins &#8211; Kuttan(Nivin), Divya(Nazriya) and Arjun(Dulqer). Boy they are lovely or what, they are a good reason to want a big family with lots of cousins of a similar age group &#8211; something every teen should experience IMO. I had my set of cousins, but we didn&#8217;t quite get to hang out the same way as the trio here. I will probably miss that. They are all in Bangalore and trying to make the best of their life. Divya is married to Das(Shivadas/Shiva actually; Fahad Fasil) and moves to Bangalore. Shiva is stuck about something and the two don&#8217;t really get on very well. And his maid doesn&#8217;t quite help the situation. Funny, but quite true. Shiva is superbly affluent which shows in the setting. And his mother is somewhere in the Americas. You only get to know her from the phone calls the maid makes. Which is good, am sure tamil movie makers would be compelled to show her in the NYC.
+
+Arjun is a bike racer but is banned for a year due to some foul. He is clear about not getting a schooling which is probably a reason why he is unwelcome with his parents. He is pushing his time as a bike mechanic. Eventually his boss who is a trainer recognizes his talent and coaches him to revive an old team. The old team link is vital. Of course, he aces his race which was made to be very cinematic. They could have kept it simple &#8211; his winning was somewhat needed, but definitely the drama was not needed for the story. Aju falls for a RJ Sarah who turns out to be wheelchair bound. He still stalks her a bit and befriends her. He is a little unsure when he finds out that she is flying out to the Australias for studies. Of course, her mom played a decent role in making the point to Aju. He tries to avoid her a bit until he wins. When he wins he races to catch her before she goes away. Of course he manages and they live happily ever after. Cinematic, but not bad. Especially because its not the main story and because its not a reality drama. Aju has a pivotal role to the movie and I am not sure if some one else would have played the role better. He had the build necessary for the character though.
+
+Kuttan is a s/w guy. And he/his family provide the comic relief in the movie. And his mom is the most hilarious. We all know someone like her. His father leaving them behind to go on a Yatra is understandable only as the movie progresses. And the father&#8217;s letter from Goa really explains everything 🙂 Kuttan tries a bit to find his own girl. The movie is actually as narrated by Kuttan to his wife (a foreigner) on their first night together. This is funny because Kuttan aspired to marry a &#8220;saree clad, malli poo donning girl from Kerala&#8221;. He manages to date an air hostess but eventually breaks off. Kuttan is nice. In the climax scene, when Shiva takes the wheel, Kuttan offers to drive instead worried that Shiva might never drive over 40 and they&#8217;d miss Sarah. And the change of expressions as Shiva sets the roads on fire is neatly done. He is the quintessential s/w engineer 🙂
+
+Lastly Divya. She wanted to become an MBA but is forced to marry Shiva for some stupid reasons. Shiva seems like the dullest executive you would meet. Always pre-occupied and stuck up. Only until the flash back that Arjun learns from his biker gang. Shiva was their ace racer. And he dated Natasha. And lost her to an accident. After which he never got back to the circuit, so much so that he doesn&#8217;t even drive fast. His fear is beautifully captured &#8211; once when he drives Kuttan and Arjun to their place and they drop out half way saying they could walk faster, and second time when he sees Divya on Arjun&#8217;s bike and asks his cabbie to tail them and brings Divya back with him. He hints at how dangerous this can be and how people have lost their lives. Until the flashback, all this makes no sense &#8211; he looks like an over protective jerk who has had no adventure in all his life! The flashback is a tad cinematic, but I guess that&#8217;s forgiven. It was decently convincing. Divya plays the healer that brings him back to his old self. Worth mention in Prathap Bothan as Natasha&#8217;s dad. Small but memorable role.
+
+And all is well that ends well. To summarize, its a nice movie. It may not have the best story you can come across, but it delivers very well. And you will miss the trio at the end of it. The music was not a hindrance which is a huge plus for the movie. The rest of it am not very equipped to comment though. Try to catch it sometime, you won&#8217;t regret the decision.
