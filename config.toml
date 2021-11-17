@@ -9,6 +9,7 @@ disableSitemap = true
 enableRobotsTXT = false
 
 [params]
+contentratio = 0.7
 show_reading_time = true
 title = '~abishek'
 author = 'Abishek Goda'
@@ -22,6 +23,7 @@ disableThemeSwitcher = true
 googleFonts = [
     "Inter:wght@100;200;300;400;500;600;700;800;900"
 ]
+customCss = ["css/override.css"]
 
 [menu]
 

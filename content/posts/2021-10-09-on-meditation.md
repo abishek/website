@@ -33,17 +33,9 @@ Every year or two, I&#8217;ll embark on a path to meditation and promptly drop o
 
 By mid-June, I got into physiotherapy to fix my back. Once the pain subsided, I started bailing myself out of my bad mood. I tried multiple things &#8211; I stopped watching TV forcefully, I deleted a bunch of time sink apps on my device and I started reading things that encourage me more: startup stuff. I got in touch with my yoga+ortho doctor back in India and started getting back into a yoga routine to keep my back from acting up again. By early July, I was in better shape, but I still couldn&#8217;t focus on anything or even learn anything. That&#8217;s what I remembered I had a bunch of books I always wanted to read. I picked the first one off the library and started reading it. It was [&#8220;Atomic Habits&#8221; by James Clear][1]. The book is a life-changer for me. I finished the book in less than two weeks&#8217; time. And started implementing the suggestions in my life. That is easily the single best thing I have done for myself in 38 years of my life. I started by streamlining my time to read a chapter of a book every morning. I scheduled my exercise routine using the same principles too. Within a couple of days, I was able to focus and get some work done too. 
 
-Around this time, I had an article open on my phone shared by a techie that I respect and follow on Twitter. The link was open but I never got around to reading it. With a slightly improved outlook, I managed to read that article.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+Around this time, I had an article open on my phone shared by a techie that I respect and follow on Twitter. The link was open but I never got around to reading it. With a slightly improved outlook, I managed to read that article.
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-    <p lang="en" dir="ltr">
-      Have been meditating over a month now regularly. Sometimes it's unclear why we do it. This post I found describes that well. <a href="https://t.co/RObsG2E9VP">https://t.co/RObsG2E9VP</a>
-    </p>&mdash; Dhananjay Nene (@dnene) 
-    
-    <a href="https://twitter.com/dnene/status/1408266661270986752?ref_src=twsrc%5Etfw">June 25, 2021</a>
-  </blockquote>
-</div><figcaption>Thank you @dnene! This one changed my life.</figcaption></figure> 
+{{<tweet user="dnene" id="1408266661270986752">}}
 
 This article turned something in my head and I finally understood what I was getting wrong about meditation. So I decided to try meditation again. Frankly, if not for this tweet, I am not sure I would have gotten on this path at all. I mean, there was another trigger down the line but I owe this tweet big time in terms of its timing alone.
 
@@ -55,23 +47,12 @@ I completed the program and continued to do 15-minute meditations every day. My 
 
 It was all very good. Am already quite grateful for what I have achieved. I was just hoping that clarity will get bestowed upon me miraculously if I just stay the course. I finally have a practice that I don&#8217;t intend to let go of. I just might be able to get my grandpop&#8217;s calmness, at least in my golden years. But if there is one thing I know about myself, it is that I cannot settle for most things. I need to push through or turn back. The status quo is something I cannot take for an extended period of time. Perhaps, this is one of the things meditation should fix in the years to come 🙂
 
-I stumbled upon Joe Rogan&#8217;s interview with Naval Ravikant. Now I&#8217;ve heard [Joe Rogan experience][4] on and off, multiple times. And I&#8217;ve read essential Naval Ravikant multiple times too. <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+I stumbled upon Joe Rogan&#8217;s interview with Naval Ravikant. Now I&#8217;ve heard [Joe Rogan experience][4] on and off, multiple times. And I&#8217;ve read essential Naval Ravikant multiple times too. 
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-    <p lang="en" dir="ltr">
-      How to Get Rich (without getting lucky):
-    </p>&mdash; Naval (@naval) 
-    
-    <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a>
-  </blockquote>
-</div></figure> 
+{{<tweet user="naval" id="1002103360646823936">}}
 
-But I&#8217;ve never heard them both in the same place :-). The interview is a fabulous way to experience two hours of your life.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+But I&#8217;ve never heard them both in the same place :-). The interview is a fabulous way to experience two hours of your life.
+{{<youtube 3qHkcs3kG44>}}
 
 There are many things to take away from there, but the one that I took away the most was Naval&#8217;s meditation practice and his thoughts around it. Specifically, he mentions that for meditation to work its magic, you need to spend at least an hour each time you sit down to meditate. And that it might be sufficient to meditate once or twice a week. Thirdly, how the entire idea is to go over your entire life and address all the things you had ignored and bottled up over the course of your life &#8211; doing which, you could experience absolute clarity in your present life. If you read the first article I shared earlier, you&#8217;d see how Naval kind of reiterates a similar thought. Now I have tonnes of respect for Naval, even if I don&#8217;t fully agree or understand everything he says. I&#8217;d at least not disagree with him.
 
@@ -83,15 +64,12 @@ I still get anxious about things, I still get upset over things, but am far calm
 
 My dad believed in all forms of astrology and sunk a lot of money in it. Growing up, that was the only topic I fought him over. He always said the same thing: 
 
-<blockquote class="wp-block-quote">
-  <p>
-    &#8220;You&#8217;ll never understand why I feel this way. Hopefully, you&#8217;ll never need to feel this way. But when things get so rough, you just want to try everything that promises a bailout&#8221;.
-  </p>
-  
-  <cite>my dad</cite>
-</blockquote>
 
-I didn&#8217;t connect with his answers until very recently. No, I don&#8217;t spend into astrology or predictions of a bright future. But I think I know how he felt when his businesses faltered and he had to keep up appearances. Growing up, our house was one of the few that owned a four-wheeler in our place. Today I understand the pressure of having to keep that up.
+> You'll never understand why I feel this way. Hopefully, you'll never need to feel this way. But when things get so rough, you just want to try everything that promises a bailout.
+> -- my dad
+
+
+I didn't connect with his answers until very recently. No, I don&#8217;t spend into astrology or predictions of a bright future. But I think I know how he felt when his businesses faltered and he had to keep up appearances. Growing up, our house was one of the few that owned a four-wheeler in our place. Today I understand the pressure of having to keep that up.
 
 A mentor of mine is going through a terrible time in his personal life. There isn&#8217;t much I can do to help him. Frankly, this meditation is probably the only reason I am able to talk to him without breaking down. And that is very important to me. My mentor is facing the whole situation in a brave and upfront manner. I cannot break down and pull him with me!
 
