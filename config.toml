@@ -49,7 +49,7 @@ url = "https://cl.abishekgoda.com"
 name = "Ideas"
 identifier = "ideas"
 weight = 400
-url = "/categories/idea"
+url = "/categories/idea/index.html"
 
 [params.math]
 enable = true
