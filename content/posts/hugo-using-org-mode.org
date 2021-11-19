@@ -1,0 +1,24 @@
+#+TITLE: Hugo Using Org Mode
+#+DATE: 2021-11-19T10:45:12+08:00
+#+TAGS[]: setup, hugo, emacs, org-mode, publish-flow
+#+DESCRIPTION: Setting up a editing workflow using emacs, org mode, hugo to keep my website updated.
+
+
+I recently moved my website from wordpress to hugo. It is taking a little getting used to, but I absolutely love the fact that I don't have to leave my editor to update my blog. I was still editing markdown and had to lookup markdown syntax here and there. So today I spent some time to figure out how to get the ball rolling with org-mode in emacs. Turns out, its not that hard at all.
+
+** easy-hugo
+
+I use [[https://github.com/hlissner/doom-emacs][emacs-doom]] as my environment without the =evil-mode= enabled. I was looking around for plugins to integrate doom with hugo. After some search, I figured the [[https://gohugo.io/tools/editors/#emacs][list in hugo website]] is quite good to start. I picked the easy-hugo option from the list and installed it in my doom environment, =packages.el= file as
+#+begin_src elisp
+(package! easy-hugo)
+#+end_src
+
+Then I configured the following variables in my =config.el= file.
+#+begin_src elisp
+(setq easy-hugo-basedir "~/Documents/website/abishekgoda/")
+(setq easy-hugo-postdir "content/posts")
+(setq easy-hugo-default-ext ".org")
+(setq easy-hugo-org-header t)
+#+end_src
+
+Once done, run =doom sync= and restart emacs. With this I am able to open my easy-hugo dashboard and start creating posts. I created this post from within that environment :smile:
