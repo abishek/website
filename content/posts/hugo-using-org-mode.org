@@ -2,6 +2,10 @@
 #+DATE: 2021-11-19T10:45:12+08:00
 #+TAGS[]: setup, hugo, emacs, org-mode, publish-flow
 #+DESCRIPTION: Setting up a editing workflow using emacs, org mode, hugo to keep my website updated.
+#+TYPE: post
+#+AUTHOR: abishek
+#+URL: /hugo-using-org-mode/
+#+CATEGORIES[]: Tech
 
 
 I recently moved my website from wordpress to hugo. It is taking a little getting used to, but I absolutely love the fact that I don't have to leave my editor to update my blog. I was still editing markdown and had to lookup markdown syntax here and there. So today I spent some time to figure out how to get the ball rolling with org-mode in emacs. Turns out, its not that hard at all.
