@@ -1,0 +1,31 @@
+#+TITLE: Static Blogs?
+#+DATE: 2021-12-02T08:15:53+08:00
+#+PUBLISHDATE: 2021-12-02T08:15:53+08:00
+#+DRAFT: nil
+#+TAGS[]: idea, blog, hugo, markdown, saas
+#+CATEGORY[]: Idea, Tech
+#+DESCRIPTION:
+#+TYPE: post
+#+URL: /static-site-blogging-service/
+
+I've been on Hugo for a while now and I have made a couple of blog posts as well. I am fully using the emacs org mode and am content, to say the least, with the flow. I maintain the website for another friend which is a wordpress instance. I cannot expect them to start using VSCode or Emacs to write their content, let alone set them up with AWS keys and a publish flow. It's just a little too nerdy for them. And that got me thinking. This approach, if made palatable, seems like a brilliant option for a lot of personal bloggers that don't really need all the bells and whistles that wordpress provides. We might have something here. So the rest of the post is sketching out the details of what I think will be an interesting offering.
+
+** A note on Wordpress
+If I go by what I read on HN, then it does seem like a lot of the folk there have already moved from [[https://wordpress.org][wordpress]] to one of [[https://gohugo.io][hugo]], [[https://jekyllrb.com][jekyll]], [[https://getpelican.com][pelican]] or even [[https://github.com/coleslaw-org/coleslaw][coleslaw]]. I was probably amongst the last. My lethargy was the fact that I need to setup a publishing pipeline. It is only after my wordpress became a target that I seriously reconsidered my wordpress blog. I am sure a whole lot of people out there, tech savvy or not, would readily move away from wordpress if there is a half-as-decent alternative. And I agree. Wordpress is a fabulous platform that has evolved over many many years. It holds a very important place in the larger scheme of things. But maybe, just maybe, wordpress is an overkill for personal blogging.
+
+That said the single most important reason to choose wordpress over almost anything else is the ease of use and its intuitive UX. The latest gutenberg editor (depending on your pov) is either the best thing that happened or the most bloated piece of software to run on the browser. But inspite of its bloated and heavy UI, it is very very simple to write and layout a post as creatively as one needed. I guess for a lot of people, this intuitiveness is a much more important than a whole lot of the other things.
+
+** Why Static Sites?
+Frankly, and now that I use one, this is a fabulous combination of the old and the new. I had a XHTML website written and edited using emacs when I was just starting out in the software industry. I spent a tonne of time getting it to be XHTML valid - something I still don't understand why I was so particular about. Back then it seemed like a cool thing to do. Then I discovered blogger, wordpress, and a host of other such platforms and sort of never went back to my HTML site. Then I came across static site generation almost a decade back (and yet it took me a decade to adopt the idea). I loved what they did but I never took the time to understand everything one could do with this.
+
+Most people do not care how their websites or blogs are served. They care how the resulting site looks, how well it does on search and how easy it is for them to use the platform. Blogger and wordpress won precisely on these factors. If we think about it, a whole lot of websites were built using dreamweaver and the like simply because it was easy to do so. Clearly, ease of use triumphs all other factors. Outside of the geek community, the only editor most people use is word. Or google docs. Yes, am oversimplifying but I know for a fact that even within my circle of family nobody else have even tried installing VSCode or some other code-highlighting enabled editor on their machines. They all have some form of document editor installed, though. But document editors are terrible for creating websites. And that is the sweet spot that wordpress found.
+
+** What can I change?
+I want to marry wordpress to static site generation. For the user, they edit and maintain their site using a simple WYSISWG editor. I wouldn't go as far as gutenberg at this time, but a good editor that allows you format content to your liking but writes out markdown (or jinja or liquid or something else) at the end of it. Either save the content as a file or into the database. Then run the static site generator to actually regenerate and publish the site. Hugo takes a few ms to regenerate my site. It is actually faster than wordpress took to save and publish my post. I don't want to reuse wordpress and have to install, maintain and worry about security or anything. Besides, if I already have wordpress, it is somewhat ill-conceived to regenerate the site statically just for the sake of it.
+
+I am building a simple wysiwyg frontend for the most typical things we will do with wordpress and write it out as markdown files. Then when I click publish, the backend runs hugo and hugo deploy to regenerate and deploy the site. Initially, I'll prototype with hugo, a bunch of shell scripts and a python frontend. If I get it to work, then I'll see how I can make it scale and work for most people. I think this will be a fun weekend project to try and maybe something people will be willing to adopt eventually.
+
+If I use auth0 for authentication, postmarkapp or SES for emails, then I don't need a database engine. I just need a file store on which I can run hugo command. I can duct tape a bunch of scripts to get this started.
+
+** Next steps
+The most important next step is to get the duct tape integration working. I don't have a name for the project. But maybe that's a good thing. I'll think of something once the hack works, otherwise i'll add one more to the many inactive domains I have for projects I don't have the time for :smile:.
