@@ -3,7 +3,7 @@
 #+PUBLISHDATE: 2021-12-02T08:15:53+08:00
 #+DRAFT: nil
 #+TAGS[]: idea, blog, hugo, markdown, saas
-#+CATEGORY[]: Idea, Tech
+#+CATEGORIES[]: Idea, Tech
 #+DESCRIPTION:
 #+TYPE: post
 #+URL: /static-site-blogging-service/
@@ -26,6 +26,9 @@ I want to marry wordpress to static site generation. For the user, they edit and
 I am building a simple wysiwyg frontend for the most typical things we will do with wordpress and write it out as markdown files. Then when I click publish, the backend runs hugo and hugo deploy to regenerate and deploy the site. Initially, I'll prototype with hugo, a bunch of shell scripts and a python frontend. If I get it to work, then I'll see how I can make it scale and work for most people. I think this will be a fun weekend project to try and maybe something people will be willing to adopt eventually.
 
 If I use auth0 for authentication, postmarkapp or SES for emails, then I don't need a database engine. I just need a file store on which I can run hugo command. I can duct tape a bunch of scripts to get this started.
+
+** Moonshot: Web3/IPFS?
+This is stretching things a bit far. I still don't know a whole lot of things about web3 and distributed-apps. But I suspect that until someone figures out how to run a database in a distributed manner (you can totally do this with sqlite, right?), I don't fully get how truly distributed websites are going to work. But perhaps, static sites are nice way to publish your website in the web3 world?
 
 ** Next steps
 The most important next step is to get the duct tape integration working. I don't have a name for the project. But maybe that's a good thing. I'll think of something once the hack works, otherwise i'll add one more to the many inactive domains I have for projects I don't have the time for :smile:.
