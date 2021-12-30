@@ -1,0 +1,54 @@
+#+TITLE: 2021 - A Review
+#+DATE: 2021-12-30T08:36:58+08:00
+#+PUBLISHDATE: 2021-12-30T08:36:58+08:00
+#+TAGS[]: life, year, reflections
+#+DESCRIPTION: 2021 was many things. It wasn't easy. The year gave too many hopes, killed too many aspirations. Overall, I'd like to forget this year, but remember the scars.
+#+CATEGORIES[]: Life
+#+TYPE: post
+#+AUTHOR: abishek
+#+URL: /2021-a-review/
+
+
+2021 was not the best year I've been through, going by how tough things got for me - personally and professionally. But it is highly likely that this is the year that taught me the most about every aspect of myself, my life, my aspirations and motivations. Instead of pouring over everything that went wrong, am just going to reflect on the learnings and see what I can do better for the next year. I also hope to setup my own broad targets going forward.
+
+** The Great: Meditation
+
+If 2020 was the year I fixed my health, 2021 is the year I took positive steps towards fixing my mental health. Nope, I don't have any major mental health issues. But I do struggle with anxiety related issues time to time. I am known to be a little paranoid, not the bravest soul to walk these lands and so on. None of these are new. Around june this year, though, I went through a particularly difficult period. I came out of it equipping myself with Meditation! The biggest takeaway for me from 2021 is the fact that I now have a meditation practice. It is not perfect. I don't really have a clear head. I can't sit for more than 50 mins at a time. But I do this religiously on most days.
+
+The other significant side-effect of this practice is that I am awake at 6AM without any alarms. And the first thing after brushing is meditation - not emails, not twitter. I have calmed down a lot, I feel less anxious, less paranoid. I don't get worked up a lot - I still do, but now I know my triggers and either expect them or steer away. I continue to retain my sense of urgency but I don't feel the need to do "dog" work. So overall, I've made progress.
+
+** The Good: Deep Learning/NLP
+
+In 2020, I took first steps to start learning NLP. In 2021, I've come quite far in the sense that I know my basics, am able to build simple models using ML techniques over text datasets. It is far from perfect. I still don't know all the tricks of the trade and am still figuring out ML algorithms and their applications. Then I spent some time equipping myself with deep learning techniques. I don't have a progress metric, but I know the fundamentals now. I have more questions than answers, so I have ways to go before I can confidently claim deep learning knowledge.
+
+The best discovery for me, in this space, is [[https://fast.ai][FastAI]]. I am able to build functional solutions using this library. I just love what they have done in this space and I really hope someday I'll meet Jeremy Howard (and Rachel Thomas) in person to thank them for doing this. Yeah, no, there isn't much I can tell them - they are far too accomplished for me to try and even buy them coffee :-)
+
+The best part of the library and the MOOC is the way you get under the hood. You get to see everything that goes into building something that learns without having to sweat over all the details. I haven't quite finished the MOOC yet, but I am already making progress. The other thing I realised in the process is - much of DL revolves around image data. I, for untold and inexplicable reasons, don't seem to enjoy working with image datasets. I enjoy working with text data though. So am persisiting through the lectures to understand just enough so I can feel intelligent. I'll very likely practice only the text techniques in depth.
+
+** The Good: Side Projects
+
+I typically start a dozen side projects every year and promptly abandon them. I figured the reason I abandon them is two fold: I talk myself out of most things. I can convince myself that the latest idea am excited about is fad and not destined to greatness. The second reason, upon reflection, is that am scared to expose myself to product hunts and hacker news. In 2021, I identified three startup ideas that I haven't talked myself out of thus far. I started to build one of these and then have been fighting off half a dozen things that is keeping me from doing this. There are two more in the pipeline.
+
+Yes, these are proper startup ideas. They are all bootstrappable within my means and I won't have to look for angel or vc money to build them. So now I have decided that I just want these to go live. These ideas are probably not going to be startups. They have been /upgraded/ to side-projects. The first such one is cooking [[https://thenewsletterproject.com][here]].
+
+** The Not So Good: Dissapointments Galore
+
+2021 was the year I faced the maximum rejections all my life. Unfortunately for me, I haven't faced a lot of rejections giving interviews for job positions in the past. Maybe I just applied to ones that I was sure of? Or maybe I just got very very lucky. This year the rejections weren't in the form of job positions alone. A couple of my ideas for the startup am with were rejected without much reason. It is extremely frustrating to see something that your founder isn't willing to see and you are unable to convince them otherwise. This happened atleast three times just this year. As someone aspiring to be a founder, I find this unacceptable. But heck, what do I know? You need to have the dough to make the point.
+
+My application for residence was rejected once again. But that's not a surprise. I was prepared for it. In fact, I wasn't at all interested in applying and did it just for my wife's sense of closure. I got rejected for my EF application. Again, it was a little bit expected. I am probably outside the age range they work with. If I had a successful streak doing things, they might have considered me more seriously. I quipped to my wife as soon as I applied to say - "I'd be surprised if this goes through. They probably won't find me interesting enough. There are so many 20 year olds doing far more interesting stuff today!". So, these two - albeit rejections, weren't much of a mark.
+
+The last major blow, and the one that hurts the most, is that I have to put aside my side project yet another time. I don't want to go into the details yet, but this is the 18th time in the 18 years of wanting to be an entrepreneur that I have to prioritise things other than my work.
+
+* 2022 - Is it 2020 too?
+
+Not funny at all, I know. For 2022, my ask is permanence. I want to belong. For some reason, I am not ready to go back to India at this time. So I want to try one last shot at immigrating elsewhere where I can live and practice my art without a visa hanging over my neck. Of course, I don't want to waste a lot of time waiting for this either. Perhaps, if 2022 doesn't get me there, I'll just go back to India. But weirdly enough, I seem to give a lot of importance to the feeling of belonging somewhere. And I didn't know this about myself at all.
+
+I have made pretty good progress learning new stuff. I figured I am not too keen on learning Web3 after all. Perhaps this is a mistake, or perhaps it is not. Eitherways, I don't think I'll stick around in the industry long enough to be impacted. I also figured I won't rent my ML/NLP/DL skills at all. I'll only be a web app architect for the rest of my career - perhaps grow to become CTO someday - but will not pivot into data engineering. I love this stuff and I don't want it to become something I need to do.
+
+I've paused on my language learning initiatives in 2021. I hope to get back on track and learn Korean and Thai to fluency. Again, these have no practical relevance. It's just a whim.
+
+I want to publish some work in a peer-reviewed journal. I don't know what work, but I hope to lay the ground work for it in 2022. And if I do find a place that doesn't mind my living there, I'll bootstrap my startup. Otherwise, that thought is something I need to learn to move on.
+
+Its not that grand - the wishlist. I guess as you grow, the grandeur in your wishlist keeps dwindling unless you've had some wins. I guess that's what I want for 2022: a few wins.
+
+Wish me luck.
