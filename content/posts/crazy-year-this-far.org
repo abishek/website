@@ -1,0 +1,35 @@
+#+TITLE: Crazy Year This Far!
+#+DATE: 2022-07-15T16:22:38+08:00
+#+PUBLISHDATE: 2022-07-15T16:22:38+08:00
+#+TAGS[]: life
+#+DESCRIPTION: 2022 has started off crazy. Between visiting India twice, catching COVID and managing work, we have crossed 50% but I already feel a year older :-)
+#+CATEGORIES[]: Life
+#+TYPE: post
+#+AUTHOR: abishek
+#+URL: /crazy-year-this-far/
+
+Earlier this year, we all got our booster doses and were eligible for traveling. And the situation also seemed to ease a bit after the initial Omicron wave here in S'pore and in India as well. So we took a quick 2-week trip to Chennai in March. Flights were empty, airports were empty and the whole experience was so chilled out. Am getting ahead of myself. Let me just look at how the year has fared so far.
+
+** Work
+
+Work has been the usual. Even though most of Singapore is going back to office, I managed to get a deal where I can continue working from home. Perks of being in a startup, say what! This allows me maintain a decent routine. This has been a bit of a requirement for me to stay focused and get things done. Adding commute to the mix would require me to rework all the routines and that's not going to be pretty at all. I'd rather stick to what I have for now, than to spend energy recreating another one.
+
+That said, work has its downs. It is difficult to stay motivated when you disagree a lot with your management. Meanwhile, being on a visa means you don't have a lot of say on things either. I've been thinking hard and long about exiting this visa game for good. But given my keen interest in startups (and really small ones at that), its increasingly difficult for me to find a footing anywhere else. So that leaves with an option to start my own. Maybe its time for me to do just that.
+
+I've heard, read and been given this advise a lot: /Be somewhat disconnected from the work you do. Sometimes the right thing to do is to walk away. But taking things too much to your heart will make walking away difficult/. For a long time, I didn't quite get the essence. Now I do. One of the hardest things for me is to walk away from my current work. I, literally, built it from scratch. It's quite not hubris but it definitely is hard. And largely because I see a way out but my management completely disagrees with me. I guess that's enough reasons to walk away - except that the stupid visa is tied to this.
+
+** Learning
+
+As always, I continue to invest time and effort into learning new stuff. This year, I taught myself [[https://ros.org][ROS]]. I've been trying to learn ROS ever since I was in college. And I was pleasantly surprised to learn that ROS actually combines two of my favourite topics: robots and pub-sub architectures. Anyway, I took the plunge to help a friend out with his work. But now am sort of hooked to it. I just don't have enough time to actually get my hands dirty and build something to showcase.
+
+I also taught myself [[https://reactjs.org][React]]. And I must say I like the idea. And in some places, React makes a lot more sense than Angular. I did a couple of simple projects for which Angular would clearly be an overkill. For me, though, the more interesting part is React integration within Clojurescript. Understanding React allows me to build richer UI using Clojurescript - which has been on my list for a while. I did publish a simple game I built using clojurescript on my github earlier. Now I should try to add react to such stuff.
+
+Of course, I've been working on my NLP problems as well. Took a break here and there, but its progressing well too. Since I don't have a target for this, I guess am happy with whatever I do here :smile:
+
+** Life, in general
+
+Life has definitely gotten better this year. All of us got vaccincated, which at the time seemed like our best defense against this situation. It might still be and it enabled us to travel and visit our folks after 2.5 long years. We pulled off two trips in the first half, with a month long vacation included in. We even managed to upgrade to business class on one of the trips :wink: While all that was fun, the wife and I caught COVID on my way back from India and that was a horrible 10 day ordeal. While I had more difficult symptoms - higher fever, cold and body aches, my wife had it a little better. But the toughest was for our son to stay isolated from us since he didn't catch it at all (or maybe he caught it and went asymptomatic). The 10 day thing has thrown us so much off our schedules that its been a wild ride trying to get back to my routines.
+
+Meanwhile, I managed to lose control of this domain and spent a good 3 days trying to get it back working again. But I did find a lower cost solution to my hosting in digital ocean. So that's been good too.
+
+Lots of things went pretty bleak in July. A whole lot of people around us fell sick - not with COVID, but with so many random illnesses - and it looked like the world would come to an end that month. Then you do realise its never that simple. So here we are and hoping that the second half of the year is a lot more brighter and interesting than the first half - which, looking back, wasn't all that bad.
