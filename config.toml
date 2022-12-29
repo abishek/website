@@ -13,8 +13,8 @@ contentratio = 0.7
 show_reading_time = true
 title = '~abishek'
 author = 'Abishek Goda'
-description = 'tech geek, guitar learner, arduino, python, common lisp, NLP.'
-profilePicture = 'images/profile.png'
+description = 'tech geek, guitar learner, arduino, python, clojure, common lisp, NLP.'
+profilePicture = 'images/profile-abishek.png'
 readMore = true
 mainSections = ["post"]
 postSectionName = "blog"
@@ -40,10 +40,10 @@ weight = 200
 url = "/about/index.html"
 
 [[menu.main]]
-name = "Common Lisp"
-identifier = "cl"
+name = "Lisp"
+identifier = "lisp"
 weight = 300
-url = "https://cl.abishekgoda.com"
+url = "https://lisp.abishekgoda.com"
 
 [[menu.main]]
 name = "Ideas"

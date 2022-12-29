@@ -1,0 +1,54 @@
+#+TITLE: 2022 - A Review
+#+DATE: 2022-12-29T17:12:12+08:00
+#+PUBLISHDATE: 2022-12-29T17:12:12+08:00
+#+DRAFT: nil
+#+TAGS[]: life, year, reflections, aspirations
+#+DESCRIPTION: 2022 was a year of trials and tests. But it is also a year of clarity.
+#+CATEGORIES[]: Life
+#+TYPE: post
+#+AUTHOR: abishek
+#+URL: /2022-in-review/
+
+2022 was a lot of ups and downs. Its the year we traveled to meet our families after 2 years of lockdowns and restrictions. Its also the year we got vaccinated for COVID. And still got COVID anyway. Its the year I spent learning ROS. Its the year I almost shipped my side-project. Almost. Its also the year we decided that our impermanence in life is probably a good thing. Or not, but it is what it is.
+
+** The Great: Clarity In Direction
+
+The biggest existential crisis in my mind is: when will I start my startup? There have been a tonne of excuses that kept me from taking the plunge. But in 2022, I managed to chalk up a clear path to this end. And 2nd quarter of 2023, I will be on my own. Yes, I can't just quit my current job with the minimal notice. That's neither professional nor moral. So I am giving my founder enough time to find my replacement and a sufficient overlap for them to take over my knowledge.
+
+That said, I don't have a blueprint for what I will do after I quit my current position. One of the things I realised this year is that I am not good at "side-projects" stuff. I just can't seem to give them enough time in the day to make progress. So unless I give them priority, I am not going to go forward. Yes, there is the omnious possibility that I won't do much either ways. But I can't let that fear make this decision.
+
+** The Good: Turning 40
+
+So I turned 40 last week. Not sure if I feel different, but I guess the process is far more gradual than it was for 30. I feel far more calm about the decisions I am taking. I feel like I am in the driving seat for the most part.
+
+I continue learning new stuff. This year I learnt enough ROS to build simple ROS applications and bots. I've learnt enough clojure to build my side project in clojure (and not python). I've learnt enough React to fix a bunch of UI issues a friend was having in his react code base. While I fully expected to be unable to learn new stuff all that much. That hasn't happened. Yet, at least.
+
+I started paying for more things. I purchased quite a few software subscriptions, games. I've tipped artists and indie developers just to support their work. That, to me, is quite some growing up. For some strange reason, I've never actually bought software for a very very long time. The attitude was always - let me write that stuff and then kill my weekend doing just that.
+
+** The Not So Good: Setbacks in health and otherwise
+
+Me and the wife got COVID and had to force isolate ourselves in a bedroom while our son managed his entire day by himself. It was the toughest 10 days for us. While the infection wasn't bad, we wouldn't test negative for the full 10 day period. I am sure this had a major impact on our kid.
+
+We didn't get our PR one more time and then we decided not to pursue it any further. We even stopped applying for a residence in other places. The one we applied for Canada is out there but at this point, getting in or not has very little effect on our plans. While at the time all this felt like a major setback to all our plans, in retrospect seems like a good thing. Perhaps, settling down will drive other priorities and we won't pursue what we really need to.
+
+My wife had to quit her job and that created a lot of uncertainty for about 4-6 months. This left us frantically testing all our options and questioning a lot of our choices. She eventually landed a far better position and is probably in good position to be the bread winner for the family. The setback duration was pretty scary and difficult, though.
+
+** Misc Updates
+
+I've managed to up the overall workout levels. While I wouldn't yet call myself fit, I guess am getting there slowly.
+
+I attended my first comic-con, thanks to my son :-)
+
+I taughy my son to play badminton, to ride a bicycle (one with gears too)
+
+I got my driver's license in Singapore. I wonder why I waited all this time. Its a pleasure driving here. But it is unsettling to drive side-by-side with a trucker. I am always expecting him to cut in and he just doesn't. Even in an expressway. Weird. What's weirder? I got it within a day and didn't pay anyone ;-)
+
+We took posession of our unit back in Chennai. A small 2 bedder that we intended as a holiday home. But maybe it will double up as a rental income? Not too sure.
+
+I gifted a new car to my dad for his b'day. That's the one thing he has been hinting to me for a while. I always kept it aside as a waste of money. But if there's one thing covid taught me, its to do things while you still can. Life is sometimes too short mostly because we assumed it would be longer.
+
+** Closing Thoughts
+
+Happy B'day me. I have a lot of hopes and plans for the year ahead. But I also have enough realism in the bag to know that some or all of that won't pan out the way I planned. I think I have the maturity to tell myself: /this didn't work. but that's ok/.
+
+Prof. Nitin, who guided my work at IITM, told us something that I literally tell myself very frequently these days: It is one thing to know, but it is a very different thing to be able to do. The focus of this phase of my life is "doing things". Next year when I review my year, I want to have done more things that I have learnt. I guess that's a good challenge to take on.
