@@ -1,0 +1,50 @@
+#+TITLE: Solopreneurship - Getting Started
+#+DATE: 2023-08-07T09:00:00+08:00
+#+CATEGORIES[]: entrepreneurship
+#+TAGS[]: solopreneurship entrepreneurship
+#+DESCRIPTION: Part 1/n cataloguing my journey through solopreneurship.
+
+So I quit my job. And have decided not to search the market to get back into a grind. And thankfully, the wife can keep her job and become the "breadwinner" of the family. That's a relief - to not have to worry about food on the table and the bills. 
+
+I  wanted to be running my own business back when I was in high school - circa 1998. I didn't even know "entrepreneurship" as a term. People around me back then didn't start their own businesses. And even if they did, it was a shop in the market selling/re-selling something. It had nothing to do with selling their skill - selling was the skill. I knew I didn't want to do that. But I didn't quite know what else I could do.
+
+My Dad ran a business selling medical equipment for a while. It was sufficient to pay our bills and have a simple lifestyle, but he didn't quite grow like some of his fellow distributors. I could analyse his business and see if there is a lesson or two. Still, even back then, I wasn't keen on taking up a dealership or being a reseller the way my Dad did. I just thought that maybe that business didn't scale, and I shouldn't take that as any indicator.
+
+When I finished school, various financial constraints at home forced me to find a job and support the family. But I didn't want to settle down into any position. I always sought to take on roles that challenged my understanding and expanded my knowledge. And I never negotiated salary - the only thing, if at all, I'd call a regret in my life thus far. I was happy to get what I got as long as I learnt something. So I quit when I felt I was the smartest person in the room or if the job didn't quite teach me anything else and/or didn't require my particular skillset to keep
+going.
+
+I have spent 18+ years awaiting this moment. I sometimes think I might have succeeded better had I done this 18 years before. The cohort sizes were smaller, and even simple ideas would have gone further. A good portion of success would have just been the product/solution. Today, I believe that my success entirely depends on my ability to execute - The only skill I've never had an opportunity to learn in other spaces. That's why I fully believe I am either a natural or I'll need to accept 2-3 failures before I fully get the hang of this. 
+
+** But you don't need to quit, do you?
+
+Technically, you don't. Ideally, you shouldn't. But it took me this long to realise that I am not good at multitasking. I multi-task all the time, though. But I am always focused most on one, and the rest at a different lower level of focus than the main. This doesn't play out well when two things need the same focus level. Besides, I am somewhat obsessive when I have a problem to solve. It can get quite challenging for me to stop working on an issue, to work on a different problem altogether. Of course, I recognise this will get in my way sooner or later.
+
+** Why Solopreneur?
+
+It is simple to build a quick solution, get it on the internet and market it. And if you manage to get some customers, getting funded and building a business should be straightforward. Right? Perhaps. This is where I'd have done better as the naive kid who could code. 
+
+As a solopreneur, success or failure is entirely mine. While I am delighted to share my success, I've seen far too many people fail (and very hard), affecting many people around them. So it seems dumb to take people along this early in the ride. Indeed, when the path becomes viable, I should be an entrepreneur. 
+
+** What am I building?
+
+The million-dollar question. And the answer is I don't know. 
+
+I am lurking around in ROS. I recently built some stuff in ROS and am thrilled to explore this space. 
+
+I have the itch to work on EDA once again. I am collaborating with a friend to experiment on a few topics to see if we could build a product/solution in this space.
+
+I have been studying and practising generative AI for text over the last year or so. (What!? That's just a fancy way of saying I am learning NLP). And I see quite a few worthy ideas to implement. But this space is moving so fast that when I finish writing my thoughts, someone posts a solution on "There is an AI for that"! To break into this space, I need to leverage my unknown ability to execute more than my learned ability to solve the problem.
+
+I started a project for newsletters that has since been collecting dirt in my private GitHub. I could fix it, market it and bootstrap my way to riches. 
+
+Or I could build a software services shop, stick to my core skill set, hire for everything else, and build the next "Infosys". What can go wrong now, anyway? 
+
+It boils down to a problem of choice. And I don't do well in that. I pick something and always think if I should have picked the next one instead. I also recognise I might have a bit of analysis paralysis.
+
+** Wish me luck!
+
+As I write this part 1, I may have jumped the gun on this decision. That said, there is no plan B. So my only option is to run fast and stop the bullet from leaving a hole. And I am going to need a ton of luck doing this. So send me some if you have them sitting around.
+
+
+
+

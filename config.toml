@@ -1,99 +1,83 @@
-baseURL = 'https://www.abishekgoda.com/'
-languageCode = 'en-us'
-theme = 'anatole'
+baseURL                = "https://abishekgoda.com"
+title                  = "~abishek"
+theme                  = "PaperMod"
+paginate               = 10
+enableInlineShortcodes = true
+enableRobotsTXT        = true
+buildDrafts            = false
+buildFuture            = false
+buildExpired           = false
+pygmentsUseClasses     = true
+enableEmoji            = true
+googleAnalytics        = "UA-210766219-1"
 
-enableGitInfo = false
-enableEmoji = true
-disableRSS = true
-disableSitemap = true
-enableRobotsTXT = false
+[minify]
+disableXML             = false
+minifyOutput           = true
 
-[params]
-contentratio = 0.7
-show_reading_time = true
-title = '~abishek'
-author = 'Abishek Goda'
-description = 'tech geek, guitar learner, arduino, python, clojure, common lisp, NLP.'
-profilePicture = 'images/profile-abishek.png'
-readMore = true
-mainSections = ["post"]
-postSectionName = "blog"
-displayMode = "dark"
-disableThemeSwitcher = true
-googleFonts = [
-    "Inter:wght@100;200;300;400;500;600;700;800;900"
-]
-customCss = ["css/override.css"]
+[languages.en.taxonomies]
+category               = "categories"
+tag                    = "tags"
+series                 = "series"
 
-[menu]
+[[languages.en.menu.main]]
+name = "Posts"
+url = "posts"
+weight = 5
 
-[[menu.main]]
-name = "Home"
-identifier = "home"
-weight = 100
-url = "/index.html"
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 20
 
-[[menu.main]]
-name = "About"
-identifer = "about"
-weight = 200
-url = "/about/index.html"
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Lisp"
-identifier = "lisp"
-weight = 300
 url = "https://lisp.abishekgoda.com"
 
-[[menu.main]]
-name = "Ideas"
-identifier = "ideas"
-weight = 400
-url = "/categories/idea/index.html"
 
-[params.math]
-enable = true
-use = "katex"
+[outputs]
+home                   = ["HTML", "RSS", "JSON"]
+
+[params]
+env                    = "production"
+description            = "Abishek’s corner on the internet. Mostly rants, some bad jokes and even worser advice. But take a look"
+author                 = "Abishek Goda"
+defaultTheme           = "auto"
+disableThemeToggle     = false
+showShareButtons       = true
+showReadingTime        = true
+displayFullLangName    = false
+ShowPostNavLinks       = true
+ShowBreadCrumbs        = true
+ShowCodeCopyButtons    = true
+ShowRssButtonInSectionTermList = true
+ShowToc                = false
+
+[params.profileMode]
+enabled                = true
+#imageURL               = " "
+imageTitle             = "~abishek"
+imageWidth             = 120
+imageHeight            = 120
+[[params.profileMode.buttons]]
+name                   = "Posts"
+url                    = "/posts"
+[[params.profileMode.buttons]]
+name                   = "About"
+url                    = "/about"
 
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/abishek/"
-
+name                   = "Github"
+url                    = "https://www.github.com/abishek"
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://www.twitter.com/abishekgoda"
-
+name                   = "Twitter"
+url                    = "https://www.twitter.com/abishekgoda"
 [[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://www.github.com/abishek"
+name                   = "Linkedin"
+url                    = "https://www.linkedin.com/in/abishek"
 
-[deployment]
-
-[[deployment.targets]]
-name = "deploy-to-s3"
-URL = "s3://www.abishekgoda.com?region=ap-south-1"
-cloudFrontDistributionID = "E3L3XDB3SS8K0H"
-
-[[deployment.matchers]]
-# Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = true
-
-[[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = false
-
-[[deployment.matchers]]
-# Set custom content type for /sitemap.xml
-pattern = "^sitemap\\.xml$"
-contentType = "application/xml"
-gzip = true
-
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
