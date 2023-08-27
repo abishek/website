@@ -1,0 +1,63 @@
+#+TITLE: First Steps as a Solopreneur
+#+DATE: 2023-08-26T12:08:15+08:00
+#+PUBLISHDATE: 2023-08-26T12:08:15+08:00
+#+DRAFT: nil
+#+CATEGORIES[]: entrepreneurship
+#+TAGS[]: entrepreneurship, solopreneurship
+#+DESCRIPTION: If I considered this phase of my life to be an experiment, then the first step is to define my metric. Let me try to define one for myself.
+
+Success is an elusive metric. What does it mean to succeed? I've pondered over this question a few times. I avoid reading this stuff up, though. So whatever follows here on are my own thoughts.
+Some influenced me, but mainly as they occurred in my head. They must be naive, for most of you.
+
+** What is Success?
+
+According to a dictionary, *Success* is _the accomplishment of an aim or purpose_. Let me, then, start with my purpose. For a long time, my only aim in life has been to live free, to pursue my
+curiosities while not worrying about financials. My interests aren't at the scale of solving world hunger or climate crisis. They are much simpler - build a robot or two, teach kids basic sciences,
+invest in people who need a break, write a book, pursue my own idea of spirituality and so on. These are highly selfish pursuits, too - I don't have any grand visions of philanthropy.
+
+But that is what almost all of us want. Even those of us in a job, isn't that so?
+
+I cannot define the purpose in terms of money. After all, if all I wanted was to make money, I might have done better to have worked towards a career in investment banking or other potentially
+high-paying career choices. Entrepreneurship, and especially Solopreneurship, seems like a path in vain. The purpose is both the journey and the destination - if that makes enough sense.
+
+** The Journey
+
+As I've mentioned many times, starting up has been my target for a long time. Well, before even the terms were fashionable. But it has taken me this long to come to a place where I can give this a
+fair shot without drowning myself. Along the way, I've learnt quite a bit - in terms of tech, running a company and so on. And I understand - first-hand - how hard things can actually get. I remember,
+though, my mentor used to say - /It is one thing to know something, but it is entirely different to be able to do the thing/.
+
+I usually got things done even after they were abandoned by people with far more knowledge and experience than I did. Mostly because I felt I had to try for myself and a little because I didn't know
+what I was taking on. This is the part of me that wants to start up first-hand for myself because my history says I might be able to do it better! It is somewhat arrogant, but it is also confidence in
+my capability. It's an immense privilege to scratch an itch like that. And I am incredibly aware of that and grateful to a lot of people in my life that are allowing this to happen;
+taking on more than their fair share of the load. Special mentions to my wife - the primary reason I can do this; secondly, we have been aspiring to do this together for a little over
+a decade now. And if we play our cards right, she will soon be able to join me. As cheesy as it sounds, we do complement each other as a whole.
+
+** The Destination
+
+Frankly, it is very, very far away. And the destination is what I mentioned earlier - freedom to live my curiosity; Freedom for my wife to live her curiosities, and for our kid to live his
+curiosity. Even before the [[https://om.co/2011/10/31/steve-jobs-memo-to-startups/][Steven J's quote]] became famous, I've always wanted to build things that will outlive me. One of the end goals is to create something larger than myself. I am not an
+activist by any definition of the term - so creating a movement isn't up my alley. And I am not an artist in the literal sense of that term either. So the best way, as I see it, to create something
+larger than myself is an organisation, a business that will outlive me. I would have arrived if I started that. And I will probably have to create multiple small ones that don't go
+very far before I start one that will.
+
+The idea is to build a multi-generational business with sufficient momentum to survive bad leadership because it adds value that society needs. This aligns with my thoughts on following "hypes". I
+cannot follow hypes; Even as a kid, I hated falling in line. And following a hype is like falling in line. I will only build what makes sense to build. That might align with a hype because the
+technology becomes feasible - but never built because there is hype around it. That's just falling from the pot into the fire.
+
+** The Metric
+
+It is unrealistic to run an infinite experiment. We need a metric to decide if we are moving in the correct direction and not forgetting any of our uncompromisables. My metric looks like this:
+
+   - I am taking on something that will be 18x7 until it grows wings (or burns down). So I shouldn't have too many down days in a row.
+     - Down days are times when you can't get yourself to do any work.
+     - To me, doing certain types of basic grunt work is challenging to bring myself to do. So, too many of those are bad!
+     - Of course, the first such occurrence is not bad. But if I am unable to find an affordance to delegate or redeem myself from the situation, then it is a warning sign.
+   - I have a planned runway for about 18 months. I should be able to replenish the runway to keep me going. While I needn't hit a jackpot, I should make a minimum viable income.
+     - A minimum viable income is a revenue that isn't necessarily profitable but is needed to stay afloat - including any salaries.
+   - Our son's lifestyle, education or entertainment shouldn't be compromised. Yes, we could argue that it will build him some character or that it will give him perspective - frankly, it will be
+     meaningless to have waited this long if we wanted him to go through that experience.
+   - It should be fun. I should be as excited as I have been about keeping this going all these years. Being excited to pursue this direction doesn't mean toiling away at something that isn't working.
+     - Products fail all the time. Sometimes, they are just unnecessary. Other times, they are way too ahead of time. We should know when to quit those.
+     - We need to develop the muscle and discipline to let things be - allow them to simmer and blossom - while focusing on other shorter-term lifebuoys.
+
+These are our guiding principles at the moment. I may revisit and revise these if I think of other factors to include here.       
