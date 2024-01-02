@@ -1,0 +1,63 @@
+#+TITLE: 2023 In Review
+#+DATE: 2023-12-30T18:05:52+08:00
+#+DRAFT: nil
+#+CATEGORIES[]: life
+#+TAGS[]: 2023, life, review
+#+DESCRIPTION: My annual birthday post. Also reviewing the year that just went by.
+
+So I am an entrepreneur now. And I turned 41 last week. Despite all this, the year has been extremely eventful. We took two vacations, I attended two conferences; presented in one, my wife found a good position that challenges her and gives her the space to grow, my son completed a year learning to play the drums, finished level 1 of swimming. Not all was bright though: I got covid twice this year; my immunity seems to be in a terrible place, i've been dealing with a variety of stuff with my body - results of not taking enough time to exercise in my twenties are showing now. There have been some things that could have been better but not entirely bad either. So let me just catalog these as good, bad and ugly. Its all relative though. If there is one thing this year cemented in my head, its the relativity of things.
+
+** The Ugly
+
+- Because somethings are avoidable.. I got covid twice this year. In some sense, this was fully avoidable. Not by isolation, but maybe a booster shot should have made things better? I was just too lazy to go through with that and I probably paid the price. The actual cost, if any, will show up later. That's the thing with covid: it seems to set you up for a larger failure later.
+
+- But more importantly, my fitness walked out my door. I built a few habits but struggled to keep them working.
+
+- It was very hard to find my replacement for QUASR: I didn't want it to fail just because I don't want to keep at it.
+
+- A lot of people around me had health scares - while everything worked out, the moments were quite tough.
+
+** The Bad
+
+- Many things were bad but they didn't quite affect as much: the company registration in India hit a snag over technicality and took more than 2 months to move. My poor auditors struggled along side me. In theory that's not bad, but I have done work that I cannot yet bill for!
+
+- Many things came to a point where they'd just take off, but didn't actually do that. Three different projects got held off for a variety of reasons and I still don't see a way forward for some of them.
+
+- Netflix became a staple in the second half. That was a hard thing to shake off of. I still watch a few shows but its largely under control now.
+
+- Diet has gone down the drain. I figured I snack a lot when am thinking. And I spent a tonne of time chalking things out for my entrepreneurship. This, in retrospect, cost me a lot of unwanted calories that I am not able to shake off!
+
+** The Good
+
+Lastly the good stuff, so that's what you'd take away from this read.
+
+- I hired my first employee. He works out of Myanmar. Pretty talented folks out there and this was a good find under budget too. Talk to me if you are interested, I can hook you up.
+
+- I presented my first conference talk. I know I could have done better, but it was my first major presentation. I did one about 10 years back: nothing to talk about in that. This talk is close to my heart. I am betting a bunch of my startup plans around ROS and this conference was a major entry for me. I just wish the talk doesn't become "meme" material later. Well, all publicity is good publicity.
+
+- I met a lot of new folk. I connected IRL with a lot of people I've known on twitter. That was a hard but refreshing thing to do for me. I'll probably do this more often going forward too.
+
+- I am registering an office in India. I'll probably register one in Singapore too. I am looking to hire and build a business. This part of it is both scary and exciting.
+
+- I experienced snow for the first time in my life. On the himalayas. We got to see the "Atal" tunnel. Its not a match for what I drive through in KPE, but KPE isn't built through the himalayas or at that height either. So it felt really cool to have passed through that one.
+
+- We went staycation in Bali. That was a different but nice refreshing trip too.
+
+- I've managed to get on a meditation routine again.
+
+- I think am taking on to beer. Although I avoid it as much as I can, it doesn't taste all that bad anymore.
+
+- Going to bangalore to hang out with my cousins was a fantastic idea. All of us loved it and it really is fun to have so many people in a similar age group just hanging around and doing stuff.
+
+- I met my first hire for QUASR and treated him to dinner at Bangalore. That was good.
+
+- I built a full application in Clojure. While I took it up on a whim, being able to actually deliver on that feels refreshing. And yes, it was a brilliant idea to code that up in a lisp.
+
+- I've announced my first big open source project. I still have work to do, but its a good start.
+
+- I met a cousin from my maternal family. That was an interesting bonding experience. I've not met many of my maternal uncles - esp my mom's cousins. They are all pretty well settled and it seems unfair that I didn't know them growing up at all. So hopefully I get to know more of them in the coming years.
+
+
+That was a long list, unexpectedly. But anyway, I think overall its been a good ride. And I hope 2024 is at least as good and builds on the momentum. My wish for 2024 is largely good health and hopeful pivots on what I am setting out to do. And good health for everyone around me - turns out its hard to focus when your near and dear are struggling with anything health.
+
+Happy new year folks!
