@@ -1,0 +1,67 @@
+#+TITLE: On Wrong Approaches
+#+DATE: 2024-01-28T10:46:14+08:00
+#+DRAFT: nil
+#+CATEGORIES[]: entrepreneurship
+#+TAGS[]: solopreneurship, life
+#+DESCRIPTION: Taking the contrarian stand is a huge fad these days. We take the opposing stand just because we can. But some of us cannot help but take the opposing stand. I am just trying to see if I have a reason for my doing.
+
+** Right vs Wrong
+
+Its the quintessential philosophical battle. What is right and what is wrong? I am not sufficiently philosophical to attempt to answer that question. But I have, for a while, believed that there isn't anything right or wrong. These are just social constructs made up by societies to ensure their own peace. Which is to say, anything that is wrong isn't necessarily universally wrong - it is wrong in that context. And the context could be the epoch of interest, geography of interest of just the religious belief of the larger society of interest. Of course, designated rights and wrongs do help us make better decisions in many cases. So overall, the idea of right and wrong is probably _right_.
+
+Secondly, I believe that what is right is basically what has worked for the society at that point in time. If that's acceptable, then what is wrong is either something that's past its time or something whose time hasn't come yet. A naive chance at getting the best idea is to pick what the society thinks as wrong - in general. Of course, that would mean you could pick something that's past its time (expired, in a sense). This is where our education and our ability to think should pitch in.
+
+The essence of a good education is the ability to think and reason. Yes, the skill helps. But skill without reason or thought doesn't go very far beyond food on the table. Am not batting against that. But we do find that once there is food on the table, the spectrum of *wants* shifts. So the ability to think and reason - either allows us to achieve the wants or consciously decide against them. I am going to squarely blame my ability to think for the rest of the post. The one thing I am very sure of is this: *I am not afraid to be wrong*. I have been wrong a lot of times and I still just do what I feel is right. And knowing that am never attempting to be accepted, my context of right and wrong probably doesn't match my society. _The right or wrong in that previous line is the societally accepted right and wrong_ (not the one in my head).
+
+** How not to start a company
+
+*** Single Founder
+Absolutely every single resource I've read in the last decade and a half (yes, that's how long I've spent preparing; not as a choice) has indicated that you should always have a co-founder. Its sort of like choosing to be a single parent. There are people being single parents (often not as a choice). But you are probably better off not being one.
+
+A large corpus of failed startups, failed because the cofounders couldn't agree with each other when things got really out of hand - either they had a tonne of money or they had none. Many times these were partners in life too. In a good number of cases, these are good friends before entering into this transactional business. There have been siblings that had the same issues. So, is it really the best thing to have a co-founder?
+
+It probably still is. My theory for why incubators and accelerators push for one is simple: if you are a single founder, the incubator/accelerator proabably take about 10% of your company. That means with you holding 90%, they can't do squat if you start acting up. But imagine you were two cofounders. Then if they can reason with atleast one of you, then they can ensure their investment doesn't die in vain. Of course, you could have two absolutely crazy people in the founding team. There is a very good chance, they don't take in such folks. I don't know who is studying these patterns, but definitely the investors know what they are throwing their money into. After all, that's how they got there in the first place.
+
+There is also a bit of philanthropy involved. Its definitely pretty darned hard to deal with all the stake holders when running solo. I have seen my previous founder work very very hard managing his time between all the things he just had to do vs the things he really wanted to do. To summarise, there is probably a very good reason to not run your startup/business solo. You should take all the help you can get. Just ensure you have it all contracted up properly.
+
+If I agree with that, why am I going solo then?
+
+*** Doing disparate things
+The key ingredient from my learnings is *focus*. Focus is essentially locking eyes with the one thing you need to do and aggresively eliminating a lot of other things from your timeline - irrespective of how important or interesting they seem. And founders need to focus like a hawk (or an eagle; or some predator; you get the drift). Execution is hard enough when there is only one focus area - all your decisions should maximise your ability to fruition that one thing. And almost every successful
+startup in the history startups across the world are testimony to just this one ability. Yes, there are some founders and CEOs who manage to run two simultaneously successful startups. But as they say, /exceptions prove the rule, not otherwise/.
+
+I tend to agree that focus is quite the important ingredient to success. But like I mentioned in a different post earlier, we first need to define success. If success is name, fame and money, then focus, perhaps, is the boat that can sail you there. Besides, vast majority of already successful people are known for their ability to focus amidst distractions. Every second or third book on productivity will teach you the same thing too. They can't all be wrong. Besides, I have benefitted a lot from being able to focus on tough problems with exceptional results.
+
+If all that is true, then why am I doing disparate things?
+
+*** Building for yourself
+*Product Market Fit (PMF)* is the holy grail of modern day entrepreneurship. And *Paul Graham (PG)* defines it, its when you can no longer take more work in the model with which you are delivering. Its a good problem to have and signifies that the market is really grokking your solution. Every VC fund is probably hacking to get their portfolio companies into this zone somehow. You fail fast so that you can learn what doesn't work quickly and try the next one. You incessantly pivot based on what the market is telling you to build and soon enough you'd have a sustainable business. Then it probably depends on your ability to execute and/or foresee the market to become a unicorn. Of course, some people are so right from the get go, they start by building unicorns (at least in valuations).
+
+That's the conventional wisdom. Of course, there are essays from PG that talk about solving your own problems as a potential way to identify good products. But general wisdom is to identify problems worth solving, then quickly assembling the right team to solve that problem, pivot and iterate fast enough to reach PMF. When you do this right, you have a fast growing startup.
+
+But am I even building towards PMF?
+
+*** Not solving the worlds problems
+One way to build a promising startup is to come up with an idea in deep tech, climate tech, clean tech, space tech and other such future focused tech spaces. The catch with these spaces is they aren't something you can pick up along the way by reading a book. These are subjects that need a lot of learning, time and intellect to pour over research, understand and conduct experiments, device those experiments, build physical infrastructure and on and on. These are fantastic problem spaces to work on. And young people in college should really consider these spaces seriously. After all, that's the phase of your life where you have the maximum time to work on esoteric stuff.
+
+Honestly, though, I am not even reading up on these spaces. I might eventually slide into one of the spaces, but that won't be by design. It has to be serendipity. Problems in these space are tough, long drawn battles with various governments. For people like me, that's not a good first problem. In spite of over a decade of experience in hardware, am not even attempting to build a hardware startup. The reasons are similar - these are not good first problems. I am choosing simple ideas that slightly improve our life.
+
+So how do I go to a million dollars from here then? Most of the ideas am working with probably won't go there. And that wouldn't matter much. My general belief is this: if you hang around in the right spaces long enough, you will find large enough problems to solve. That is a much easier way to arrive at the big-dollar-worthy solutions; especially outside the field of your expertise. I might or not find these problems.
+
+** Why am I doing this?
+
+If there is one thing I generally disagree with, its common wisdom. That is not to say that the generally accepted wisdom is incorrect. But it definitely is to say that agreeing with something without internalising it is just a recipe for disaster. Let me look at why am going against the grain.
+
+I tend to have strong opinions about how things need to be done. I have never idolised anyone - not even Steven J. I don't have anyone whose success I am choosing to emulate. I have met people living my dream - and yet I've never bothered to ask them how they got there or envied that they were there. I generally don't feel jealous about anyone's success. I do envy people who have learnt more than I ever will - quantum theorists, rocket scientists and theoretical physicists for a start. But I will never try to learn those skills or topics any more. And I don't look up or down on anyone. So if everyone is equal, I generally don't see the need to be agreeable and hence be more forgiving. You see, this right here is a big red flag in a founding team. I don't have a choice but to go solo.
+
+The focus argument is valid depending on what you are building. It is somewhat silly to do that for a micro SaaS product. Even if you spent 4 hours every day focusing on the product that's live, you have close to 12 hours to build something else. Besides, even though am a solo founder, I do have a small team. So the biggest maintenance task is offloaded from my plate. So while I don't disagree with the focus argument, I just want to apply it with a rider to my own work.
+
+Lastly, what does it really mean to win? Would it be a billion dollars in my bank account? Would it be a statue in the central hall of a big city? Would it be nomination into a parliament? I don't know if there is a general formula for winning. But for me, winning is simple: I win if I have a sustainable business that can pay for my and my family's lifestyle. I win if I am able to engage my curiosities and work with tech that's largely crazy to the mainstream. I win if I didn't have to check my bank account before getting my kid into college of his choice. I win if I could be my kid's angel if they needed me to be one. But beyond that, it doesn't matter.
+
+But all this is not to say I won't do anything the rest of the world is doing. For instance, if I stumble upon a billion dollar idea, I am going to seek the help of a VC to fund me to do it right, to help me with introductions, to build the right teams and so on. Am not against the idea, I just don't want to apply it every where. That's when things break down.
+
+** So what does all this mean anyhow?
+
+If you've read this long, you are probably confused. But interestingly, am experiencing clarity. Because that's how this works. The biggest takeaway is this: I am building my company in a way that is normally frowned upon by most mentors, investors, incubators and the like. And rightly so. I am technically doing it all wrong (wrong in their context). Fortunately for me, am building something that is right for me. And that's also my advice to you: do things that are right for you. Maybe raising VC is right for you, then do it. Maybe adding a co-founder is right for you, then take the help. But do these things because you have thought them through and they make sense to you. Large amounts of data available as conventional wisdom lack the context you need to decide if they are right or wrong. So don't just take them at face value.
+
+And if it comes to a point where my understanding and thought agree with the conventional wisdom, I will switch in a heartbeat. I do believe that a sure indicator of intelligence is our ability to change our mind when presented with the right data.
