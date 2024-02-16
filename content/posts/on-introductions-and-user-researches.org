@@ -1,0 +1,35 @@
+#+TITLE:On Introductions and User research
+#+DATE: 2024-02-16T17:30:14+08:00
+#+DRAFT: nil
+#+CATEGORIES[]: entrepreneurship
+#+TAGS[]: entrepreneurship, solopreneurship
+#+DESCRIPTION: I recently started talking to quite a few people - very uncharacterestic of me. And my wife noticed and later told me that I tend to sell short a lot. I recently had a user research call with a senior executive in a large outsourcing firm. She noticed a similar pattern. Now, my wife is a communication wizard. I prefer long form. But pitches are never long form. What should I do?
+
+** On Introductions
+
+I've generally realised and come to terms with the fact that my reaction times suck. That is to say, if you took a shot at me, I'd not know what to come back with immediately. Much like George in [[https://en.wikipedia.org/wiki/The_Comeback_(Seinfeld)][S8E13 - The Comeback]], I'd have a comeback a while later in a rather very unhelpful way. But the problem spans beyond comebacks. I am a thinker by nature. So I'd have a brilliant way to present my thought - if I have sufficient time. But if you put me in a spot and asked me to describe my thought, I'd end up underwhelming. I generally prepare and rehearse multiple times to make sure I don't disappoint.
+
+So the first couple of times I tried to introduce my SaaS to other people, I sucked a lot. I usually explained what I was building, explained in detail what the problem was, explained the solution space - everything except what they should really be hearing. It took me a while and I now have a reasonable pitch. I still improve with every utterance of the pitch.
+
+Even now, if we catch up in a coffee shop - there is a good chance you'd find me unimpressive. Of course, there are three factors to this:
+1. First, of course, is that my reaction time is far slower than most others. So unless I've prepared for the meeting, I am hardly trying to impress.
+2. For the longest time, I went about life as if I were going towards monkhood. I never considered my self or my work too important and always felt that in the grander scheme of things, its just too insignificant anyways.
+3. While I always played technically very important roles within my team, I always played a background role. I never took the front stage. I let others take the lead on that - mostly because it allowed me to spend a little more time with the problem at hand. I was a nerd/geek for the sake of the tech. But what I did not realise is that, this would come back to bite me quite hard decades later when I really need to take the stage.
+
+These don't really help. I've consciously moved away from pt. 2 there. And am working very hard on pt. 1 - I prepare for every meetup, quite meticulously. Pt.3 is just /karma/. The good thing about Pt.3 is simply this: I might be able to learn the skill. While I don't expect to become someone that can dole out philosophy a.l.a Naval or someone that can get the audience glued to their chairs a.l.a Steven J; I am sure I can get to a place where I don't disappoint, undersell or generally fall short in impression.
+
+** On User Research Calls
+While introducting myself or my work has been an upskilling opportunity, user research has been a slightly different bridge to cross. I just started - I've probably talked to two people so far with this purpose. I got some responses - helpful ones too - but I realised I was leading them on. You see, again I've overthought what I should go through with them, pitched them an elaborate outline and now they are trapped to answer within this context. That's not very useful, right? Am probably just solidifying my bubble in this way.
+
+Now am preparing a questionnaire. I should have started there, you say. I agree. The first one I had to wing it instantaneously - so you know how that could have been. The second one I over pitched the idea and got sidelined into very specific ideas. So going forward, am writing down a script that I'd just parrot through with a little improvisation as needed. Its still going to be difficult and will probably a few iterations before I have the right script that gets me usable data points.
+
+Interestingly, even in this case, it was my wife that caught me getting carried away early on. But she couldn't do much. And after much back-and-forth, we figured out the list of things I should stay away from when am talking to users :-)
+
+** On Improvements and Next steps
+This isn't everything, though. Since am running a bootstrapped business with extremely tight budgets, I am trying to rent my time to add some cashflow to the game. So I decided to try a few consulting gigs here and there. Consulting is hard. Consulting is just selling for most part and selling is an extremely skill to master. So, I know this is not going to be easy. My wife, on the other hand, has been in software pre-sales for a while. Even though that's not her expertise, she's quick and pretty fast on her heels. So she is generally able to present a better picture. So, with her help, I have landed one opportunity.
+
+While I might have the contract, I am far from set. I have to make presentations. I still have to make a good impression. I know I can solve the problem, but that's only 50% the game. So am working quite hard on this aspect of myself too.
+
+The underlying problem, in my mind, seems to be one of confidence (self-confidence, in particular if there are other types). And for someone my age, this is typically driven by *impostor syndrome*. While am not going to claim mastery in everything I do, I bring reasonable expertise to the table. And  yet, I do not have a social presence that people with my expertise bring along. And I am hesitant to up my game.
+
+So this is the next step. I am now working quite hard on beating this syndrome. Perhaps I'll be outed as a quack, but until then am going to be the expert. If only implementing this was as simple as that last line :-)
