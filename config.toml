@@ -9,7 +9,7 @@ buildFuture            = false
 buildExpired           = false
 pygmentsUseClasses     = true
 enableEmoji            = true
-googleAnalytics        = "UA-210766219-1"
+googleAnalytics        = "G-8JYM04V3BG"
 
 [minify]
 disableXML             = false
