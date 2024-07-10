@@ -53,6 +53,8 @@ jobs:
           TZ: Asia/Singapore
         run: |
           hugo \
+            --verbose \
+            --logLevel debug \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
