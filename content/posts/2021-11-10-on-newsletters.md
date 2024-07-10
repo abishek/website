@@ -23,7 +23,6 @@ Personally, newsletters are the new blogs. While I don&#8217;t write or curate m
 
 The only newsletter that I pay and subscribe to is the [Blackbook][1] newsletter by [Vijay Anand][2]. When I wondered how I would organise and streamline my newsletter subscriptions, there was a post on the Blackbook discussing the very problem in good detail. Perhaps, I was mulling over a problem that hadn&#8217;t been solved very well for the first time. Of course, even as I write this, I am sure dozens of startups are solving this and probably very elegantly too.
 
-{{<tweet user="vijayanands" id="1373640319598653441">}}
 
 Anyway, I continue to wonder how I want this solved. I&#8217;ve approached this problem in multiple directions. I&#8217;ve considered all the ideas listed in the post as well. But there is something that continues to bother me. So I&#8217;ve not made any appreciable progress on this. Until today, that is.
 
