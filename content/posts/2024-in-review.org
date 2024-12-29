@@ -1,0 +1,64 @@
+#+TITLE: 2024 In Review
+#+DATE: 2024-12-29T12:06:00+08:00
+#+DRAFT: nil
+#+CATEGORIES[]: life
+#+TAGS[]: entrepreneurship, life, review, 2024
+#+DESCRIPTION: My annual birthday post - about a week later.
+
+I turned 42 this year. 42 is a significant number for me. I am not sure if it's my favorite number, though. 42 is the answer to the great question of life, universe and everything. Well, I don't think there's a better joke than this.
+
+But jokes aside and while Douglas Adams seems to write it so matter-of-factly, the entire few pages where deep thought gives this answer to Loonquawl and Phouchg is filled with amazing philosophy. And am sure Douglas Adams will roll in his grave (or be happy, we'll never know) when I write this :-) ! Here is the exact lines that I love - copied from the book (without permission, duh)
+
+#+BEGIN_QUOTE
+"Forty-two!" yelled Loonquawl. "Is that all you've got to show for seven and a half million years' work?"
+
+"I check it very thoroughly." said the computer, "and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you've never actually known what the question is."
+
+-- Ch.28 The Ultimate Hitchhiker's Guide To The Galaxy, Douglas Adams
+#+END_QUOTE
+
+Those lines are another set of lines that live rent free in my head and I often spend a minute or two thinking about. I love it. It never fails to make me laugh. But it never fails to get me thinking either.
+
+And today I am 42. And am asking the very same question. Do I really know what it is that I want solved in my life or in this world? Isn't this the quintessential question we were all designed to ask ourselves? Essentially, this is also what Douglas Adams hints at a little later in the chapter too.
+
+#+BEGIN_QUOTE
+"I speak none but the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate -- and yet I will design it for you. A computer that can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ... the Earth."
+
+Phouchg gaped at Deep Thought.
+
+"What a dull name," he said..
+#+END_QUOTE
+
+Anyways, 2024 in every sense has been a very fullfilling year. I have learnt a great deal of stuff, learnt a lot about myself, learnt a few skill sets and generally grown faster than all the previous years. I experienced what I feel is a "hyper-growth" on ther personal front. The startup as such is far from where I want it. But then, that's not what this post is about anyway.
+
+** Fitness
+This was my best achievement for 2024. I actually went to a gym and worked out. I worked with a personal trainer and learnt to workout the right way. I did injure myself once but I overall learnt a lot about my physical body, learnt to use muscles I never knew I had and figured how much I've been abusing my muscular system over the years.  Of course, I also got to clean up my diet but it's not yet perfect. I still binge on snacks, get occasional sweet cravings and I tend to skimp on the protein shakes. But I still have gotten to a better overall weight, gotten stronger and more energetic over the course of the year. I've learnt so much that I am actually able to correct my wife's exercises and teach my son some of the right ways too. One of my mid term goals is to get my son initiated into a proper workout regimen with a certified trainer. He needs to understand his body and how to use it to live a better quality life than we all did.
+
+** Travel
+While the first half of the year was largely home bound - I wouldn't even go to a coworking space, the second half saw me travel to places I've never considered. I took my first trip to Japan (and I wrote about it [[https://abishekgoda.com/posts/first-trip-to-japan/][here]]). I also took my first trip to Australia. I haven't quite written up about that one, though. I also went home to India for Deepavali and again for Roscon IN 2024 at Bangalore. The trips were deeply enriching even if my entire agenda was work and collaboration opportunities. I have a long way to go before I can shape them into meaningful collaborations, I've, however, had much better experiences meeting new people all over. It is also the first time in my entire life that I've travelled all alone. It just never worked out that way in the past and its also how it worked out this  time! And am immensely grateful. I even learnt how to sleep in a flight in a economy class seat (and economy class seats of a budget airline too).
+
+** Reading
+I read 12 books this year. I originally targeted 15 and am not sure I can clear three books in the next 2-3 days. So I sort of missed the mark on that. The 12 books I read were quite interesting picks. Most of them were self improvement, though. Here is my [[https://www.goodreads.com/user/year_in_books/2024/24439498][goodreads year in books]]. The book I enjoyed the most was "The Dark Forest". I couldn't resist watching the Netflix series on Cixin Liu's series. I do wish I read the books first, though. I still have one more in the series to finish. The books are, as always, way better than the tv series.
+
+** Habits
+2024 has been a year of habit formations. Here is a list of habits I've picked up this year: meditation, stretching, reading, journaling, workouts, language learning among others. Stretching and workout are somewhat related but I stretch every day. This is something I learnt from my workout and figured that the yoga I used to do long back was entirely everything I needed to keep my muscular system functional. It was still hard to get myself to stretch every day. This is where habit-stacking really came in handy. I've learnt quite a bit of Japanese this year, all thanks to Duolingo.
+
+** Meditation
+Of all the habits I picked up in 2024, I love that I picked up meditation the most. While I won't claim I am very good at it, I've been meditating for most of the days. I can sit, without instructions or background music for upto an hour at a time. On most days, I medidate for about 30 mins. I've tried walking meditation, body scan meditation among others. I figured that I am more interested in sitting by myself trying to listen to my thoughts. I've had amazing ideas pop up in my head this way. Of course, there is a lot of sludge to wade through as well. I've experienced moments where am completely lost and there are so many days when am just waiting for the timer to ring. But overall, its been a very fulfilling experience. I am not sure if it has calmed me down, but I do believe I am handling my stress way better than before.
+
+** Journaling
+Paired with meditation, the journaling habit is the next important habit I picked up in 2024. Specifically, I do gratitude journaling. There was a period early on where I felt a bit helpless and directionless. I read someplace that gratitude journaling can help you feel more grounded and I tried it out. I think it does more than just grounding. I've learnt to appreciate so many small things that I'd otherwise just take for granted. I've learnt to recognise so many people that are helping me every day to move forward. We often focus on one or two people that let us down, that deny us or generally don't have time for us. But gratitude journaling helped me see 10 people who are wilfully helping me for every person that has no time for me. And you can't help but feel grateful for that.
+
+** Money
+One of the hardest lessons to learn and imbibe as an Entrepreneur is your relationship with money.  I remember reading somewhere that a salary is the worst addiction one can have. After a year of no salary, I fully agree with that. There was quite bit of withdrawal, trying hard to make do without draining my wife's bank account and figuring out how to make some money. While I wouldn't say I've succeeded, I've only just begun to understand and define my relationship with money. These lessons I wish to be able to capture as notes and hand it down to my kid so he wouldn't need to struggle through this. Culturally, middle-class Indians have the worst relationship with money. We often grow up vilifying money and learning to equate money with shabby work. And we probably have our polictical system to blame for that. Unlearning all those lessons in a year is the hardest lesson am learning. And am learning to speak Japanese, for a comparison.
+
+** Learning new stuff
+I've learnt a tonne of new stuff this year. I learnt programming with Rust and swift - largely out of necessity. I'd highly recommend all system programmers learn Rust. But I'd also recommend you learn and work with C first. Without battling through the issues that C presents you with, you will be never be able to appreciate Rust. Its the same with a lisp too. Learn some other language first. Be a good programmer, then learn lisp. That will be a fabulous experience in growing up.
+
+Not all learnings are related to computers, though. I've read and understood half a dozen papers. The last time I had to that was when I was still in IITM trying to find a topic to research for my masters. And I started learning four languages: French, Mandarin, Korean and Japanese. French to help my kid with his school work, so that didn't quite stick. Mandarin and Korean have sort of slowed down after an initial thrust. Japanese is going strong and I can form simple sentences and understand basic things when I watch a Japanese movie or series. So that's huge progress. Oh, and I recommend Japanese television on Netflix. They have my kind of weird humour, not very sentimental and somewhat old school.
+
+** Letting Go
+This has been the worst section for 2024. I've had so many bad habits that am trying to shake off every now and then. Phone games, Netflix, tik-tok, Youtube are the worst. I keep deleting and reinstalling the stuff, but its the one thing I need to get a full handle on next year. There have been projects started and dumped off. Restarted and dumped again. Other than that, its been a pretty productive year, personally.
+
+** In Conclusion
+2024 was the year I saw the best personal growth. I even worked with a leadership coach to pick up some steam. There's a lot of stuff I need to do, things I need to stop shying away from, stop procastinating on. And there are things I need to continue into 2025 and beyond. The targets for 2025 is pretty clear and those are the only things that will matter the next time I sit down to do this. Wish me luck!
