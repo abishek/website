@@ -70,10 +70,10 @@ imageWidth             = 120
 imageHeight            = 120
 [[params.profileMode.buttons]]
 name                   = "Posts"
-url                    = "/posts"
+url                    = "/website/posts"
 [[params.profileMode.buttons]]
 name                   = "About"
-url                    = "/about"
+url                    = "/website/about"
 
 [[params.socialIcons]]
 name                   = "Github"
