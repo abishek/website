@@ -1,4 +1,4 @@
-baseURL                = "https://abishekgoda.com"
+baseURL                = "https://abishek.github.io/website/"
 title                  = "~abishek"
 theme                  = "PaperMod"
 paginate               = 10
@@ -36,8 +36,12 @@ url = "categories/"
 weight = 10
 
 [[languages.en.menu.main]]
-name = "Lisp"
-url = "https://lisp.abishekgoda.com"
+name = "Eight Vectors"
+url = "https://eightvectors.com"
+
+# [[languages.en.menu.main]]
+# name = "Lisp"
+# url = "https://lisp.abishekgoda.com"
 
 
 [outputs]
