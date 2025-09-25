@@ -52,8 +52,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: Asia/Singapore
         run: |
-          hugo \
-            --verbose \
+          hugo build \
             --logLevel debug \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
