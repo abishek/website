@@ -1,0 +1,38 @@
+---
+title: "Coffee and a Note to Ravi"
+date: 2026-06-26T08:23:56+05:30
+DRAFT: nil
+#+CATEGORIES[]: life
+#+TAGS[]: Atheros, nostalgia, Lunch, Ravi
+#+DESCRIPTION: What connects Podi & Poriyal in SG, filter coffee and my time at Atheros India? Nostalgia, sure, but at 43 are you actually old enough to experience nostalgia?
+
+---
+
+** The Setup
+I reconnected with Vijay after almost 30 years. We were in the same section of our primary school in Chromepet. I can’t claim any effort in this reconnection, but it turns out he had been trying to locate me for quite a while. During my engineering college days, I’d participate in multiple events - mostly technical - across the city. I vaguely remember meeting him in one such event. Last thing I knew was Vijay moved to a place called Anakaputhur - which to me sounded like a completely different part of the world. I eventually had other friends from that place but I didn’t quite connect Vijay back to the place.
+
+So we decided to catch up as families and go out and lunch together. There is a pretty hyped up Michelin star Indian restaurant in Little India and that is what we chose. The name is “Podi & Poriyal”. The food was very good, the ambience was nice and calm and the overall experience was fantastic - I should say, it does live up to its hype. I am not going to review the place. I'll just note that this is the first time I paid for a meal before having it at a fine dining place - not that it matters one way or another.
+
+Now that the setup is done, I need to introduce two specific aspects before I can finish up this post. The first is Filter coffee and the second is a bit of nostalgia.
+
+** Filter Coffee
+One of the things that I've completely lost taste for is the "Filter Coffee". Its a predominantly South Indian style of making a latte. Some versions are actually good while most others are quite terrible. I, for one, cannot make a good filter coffee. I always loved the filter coffee that we used to get in the Mylapore area. In fact, I've tried it across multiple places in this locality and they all are usually good - Saravana Bhavan, Woodlands, Sangeeta, Karpagambal mess, et al. I always got myself one in Saravana Bhavan just two doors down from that office. 
+
+I recollect the filter coffee smells and tastes, although I am not sure if I'd enjoy it anymore today. The assosciation, however, is very special to me.
+
+** A bit of nostalgia
+I am living my best life at the moment - I live in a place that I love, I am doing exactly whatever I thought I'd be doing in my life, I have a wonderful family that is supportive of my dreams (and I think am supportive of theirs too). In that sense, this is my golden era. If I had a time machine, however, there is just one other era I'd wish to go back and live in for a few days every now and then. And that would be during my stint at Atheros India.
+
+I had amazing colleagues, wonderful friends, brilliant and caring mentors and just generally nice environment. Especially, when we were in the PS Sivasamy Salai office. It was a smaller office and you literally knew everyone in the space. The somewhat dysfunctional lift, the movie office on the top floor, crazy parking situation and the back gate that will exit near Vivekananda college: The scenes, the smells, the sounds are all vivid and fresh in my head. I've had some of my best moments there, I've had extreme lows and ecstatic highs. The people there around always ensured I could tide through them with ease.
+
+When I build that environment at Eight Vectors, I will consider myself successful.
+
+*** Ravi
+Now to tie them all together, I need to introduce Ravi. I was a part of Ravi’s team from the start of my time at Atheros. Kavish was my immediate manager and was one of the reasons I had my job there. At least two teams approached me to ask if I’d join their team - I didn’t even realise they could do that - and I picked the one that said FPGA. In retrospect I had no basis for my choice and both teams would have been wonderful to be part of. I chose Ravi and I don’t think I could have made a better choice. I met some of my most cherished colleagues through this choice too.
+
+Association with Ravi is somewhat special, though. Ravi used to take us to lunch, on occasion, to a south indian fine dining restaurant opposite our then office. And a typical full meal lunch ends with a piping hot cup of filter coffee. The scents, the laughter and the scenes are quite fresh in my head - as though it all happened last week. And yet, it is 13 years since I moved on from my role at Atheros.
+
+** Coming back
+At the end of our lunch at Podi & Poriyal, I ordered a filter coffee. I didn't even realise I needed one. It felt like I need the coffee to complete the meal and just like that I was momentarily sharing my meal with Ravi and team closing with filter coffee. And it felt really good. 
+
+Thank you Ravi. Of all the things you’ve taught me, I didn’t think I’d fondly recollect you over filter coffee. Some day I’ll close this circle and grab a filter coffee with you again.

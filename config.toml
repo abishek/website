@@ -11,6 +11,10 @@ pygmentsUseClasses     = true
 enableEmoji            = true
 googleAnalytics        = "G-8JYM04V3BG"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
 [pagination]
 pagerSize              = 10
 

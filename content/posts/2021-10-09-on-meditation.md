@@ -35,7 +35,7 @@ By mid-June, I got into physiotherapy to fix my back. Once the pain subsided, I 
 
 Around this time, I had an article open on my phone shared by a techie that I respect and follow on Twitter. The link was open but I never got around to reading it. With a slightly improved outlook, I managed to read that article.
 
-{{<tweet user="dnene" id="1408266661270986752">}}
+{{<x user="dnene" id="1408266661270986752">}}
 
 This article turned something in my head and I finally understood what I was getting wrong about meditation. So I decided to try meditation again. Frankly, if not for this tweet, I am not sure I would have gotten on this path at all. I mean, there was another trigger down the line but I owe this tweet big time in terms of its timing alone.
 
@@ -49,7 +49,7 @@ It was all very good. Am already quite grateful for what I have achieved. I was 
 
 I stumbled upon Joe Rogan&#8217;s interview with Naval Ravikant. Now I&#8217;ve heard [Joe Rogan experience][4] on and off, multiple times. And I&#8217;ve read essential Naval Ravikant multiple times too. 
 
-{{<tweet user="naval" id="1002103360646823936">}}
+{{<x user="naval" id="1002103360646823936">}}
 
 But I&#8217;ve never heard them both in the same place :-). The interview is a fabulous way to experience two hours of your life.
 {{<youtube 3qHkcs3kG44>}}

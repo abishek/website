@@ -51,7 +51,7 @@ In this sense, perhaps reaching out over a messaging platform like WhatsApp will
 ### The second thought blurb: Audio
 
 I consume way more audio content than any other form. I read a lot over the internet, but I listen more than that. I have a dozen podcast subscriptions for just Tech. And I have all the same problems with podcasts that I have with newsletters. And recently, a fellow Twitter citizen raised the same concern too!
-{{<tweet user="kageman" id="1453041147186597893">}}
+{{<x user="kageman" id="1453041147186597893">}}
 
 For me, background audio is an effective mechanism to retain focus on my work. Many times, I&#8217;d be listening in on Netflix shows while I work. I rarely watch them intensely. So much so that I know a lot of Korean words that I learnt when I rewatch the shows later in the night or at weekends :-). Not proud, but that&#8217;s just how I work. I have to plough through stuff, and there is very little thinking involved.
 
